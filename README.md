@@ -1,5 +1,5 @@
 # facebookbf
-A fix of facebook bruteforcer tool
+A fix for facebook bruteforcer tool
 you can use cupp to generate a wordlist with sime info about targted victim 
 and then add it when script asks for it :) 
 have fun
